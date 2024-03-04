@@ -1,3 +1,0 @@
-ABC
-Nguyen Van C
-C++
